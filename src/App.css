@@ -1,0 +1,14 @@
+.app{
+    /*background-color: dodgerblue;*/
+    /*width: 300px;*/
+    padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.box div{
+    width: 100px;
+    height: 100px;
+}
